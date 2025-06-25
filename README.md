@@ -97,18 +97,6 @@ A detailed description of each attribute (fixed acidity, volatile acidity, citri
    ```bash
    pip install -r requirements.txt
    ```
-   *If you haven’t provided one, here’s an example `requirements.txt`:*
-   ```text
-   numpy
-   pandas
-   scipy
-   matplotlib
-   seaborn
-   scikit-learn
-   statsmodels
-   jupyterlab
-   ```
-
 ---
 
 ## Usage
