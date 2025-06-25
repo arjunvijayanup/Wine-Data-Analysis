@@ -120,7 +120,3 @@ A detailed description of each attribute (fixed acidity, volatile acidity, citri
 *(For full details and visualizations, see the notebook.)*
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
