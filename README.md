@@ -82,8 +82,8 @@ A detailed description of each attribute (fixed acidity, volatile acidity, citri
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/wine-quality-analysis.git
-   cd wine-quality-analysis
+   git clone https://github.com/<your-username>/Wine-Data-Analysis.git
+   cd Wine-Data-Analysis
    ```
 
 2. **Create a virtual environment** (recommended)  
